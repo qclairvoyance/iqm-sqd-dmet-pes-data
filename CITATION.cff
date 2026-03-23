@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Dataset for SQD and DMET-based Quantum Simulations"
+message: "If you use this dataset, please cite it using the DOI provided."
+authors:
+  - family-names: "K S V"
+    given-names: "Anurag"
+    affiliation: "Qclairvoyance Quantum Labs Pvt. Ltd."
+  - family-names: "Patra"
+    given-names: "Ashish Kumar"
+    affiliation: "Qclairvoyance Quantum Labs Pvt. Ltd."
+keywords:
+  - quantum computing
+  - quantum chemistry
+  - DMET
+  - SQD
+  - PES
+license: CC-BY-4.0
+version: "1.0"
+date-released: 2026
+repository-code: "https://github.com/qclairvoyance/iqm-sqd-dmet-pes-data"
