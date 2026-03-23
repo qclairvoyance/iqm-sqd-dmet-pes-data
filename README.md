@@ -1,5 +1,10 @@
 # Dataset for SQD and DMET-based Quantum Simulations
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19185862.svg)](https://doi.org/10.5281/zenodo.19185862)
+
+## DOI
+https://doi.org/10.5281/zenodo.19185862
+
 ## Overview
 This repository contains datasets supporting the results presented in:
 
@@ -83,8 +88,8 @@ The simulation code is proprietary and not publicly available.
 ---
 
 ## Units
-- Energy: [Hartree].
-- Distance: [Å]
+- Energy: Hartree
+- Distance: Å
 
 ---
 
@@ -94,6 +99,8 @@ This dataset is licensed under the Creative Commons Attribution 4.0 Internationa
 ---
 
 ## Citation
-A DOI will be provided via Zenodo upon publication.
+If you use this dataset, please cite:
 
-If you use this dataset, please cite the associated publication and dataset DOI.
+Anurag K S V, Ashish Kumar Patra (2026).  
+*Dataset for SQD and DMET-based Quantum Simulations*.  
+Zenodo. https://doi.org/10.5281/zenodo.19185862
