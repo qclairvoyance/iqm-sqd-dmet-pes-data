@@ -106,4 +106,4 @@ If you use this dataset, please cite:
 
 Anurag K S V, Ashish Kumar Patra (2026).  
 *Dataset for SQD and DMET-based Quantum Simulations (v1.1)*.  
-Zenodo. [https://doi.org/10.5281/zenodo.19185862](https://doi.org/10.5281/zenodo.19625172)
+Zenodo. [https://doi.org/10.5281/zenodo.19625172](https://doi.org/10.5281/zenodo.19625172)
