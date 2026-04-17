@@ -1,9 +1,12 @@
 # Dataset for SQD and DMET-based Quantum Simulations
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19185862.svg)](https://doi.org/10.5281/zenodo.19185862)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19625172.svg)](https://doi.org/10.5281/zenodo.19625172)
 
 ## DOI
-https://doi.org/10.5281/zenodo.19185862
+
+- **Latest version (v1.1):** https://doi.org/10.5281/zenodo.19625172  
+- **All versions (concept DOI):** https://doi.org/10.5281/zenodo.19185861  
 
 ## Overview
 This repository contains datasets supporting the results presented in:
@@ -102,5 +105,5 @@ This dataset is licensed under the Creative Commons Attribution 4.0 Internationa
 If you use this dataset, please cite:
 
 Anurag K S V, Ashish Kumar Patra (2026).  
-*Dataset for SQD and DMET-based Quantum Simulations*.  
-Zenodo. https://doi.org/10.5281/zenodo.19185862
+*Dataset for SQD and DMET-based Quantum Simulations (v1.1)*.  
+Zenodo. [https://doi.org/10.5281/zenodo.19185862](https://doi.org/10.5281/zenodo.19625172)
