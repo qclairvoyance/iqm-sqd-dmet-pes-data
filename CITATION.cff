@@ -15,9 +15,9 @@ keywords:
   - SQD
   - PES
 license: CC-BY-4.0
-version: "1.0"
+version: "1.1"
 date-released: 2026
 repository-code: "https://github.com/qclairvoyance/iqm-sqd-dmet-pes-data"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.19185862"
+    value: "10.5281/zenodo.19625172"
